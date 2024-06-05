@@ -64,9 +64,27 @@ Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
 </member>
+<member name="F:DateConversion.DateConversionForm1._DateConvButton">
+<summary>
+DateConvButton control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
 <member name="F:DateConversion.DateConversionForm1._RadioButtonList2">
 <summary>
 RadioButtonList2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:DateConversion.DateConversionForm1._DateDescButton">
+<summary>
+DateDescButton control.
 </summary>
 <remarks>
 Auto-generated field.
@@ -85,24 +103,6 @@ To modify move field declaration from designer file to code-behind file.
 <member name="F:DateConversion.DateConversionForm1._TodayDateLabel">
 <summary>
 TodayDateLabel control.
-</summary>
-<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member>
-<member name="F:DateConversion.DateConversionForm1._DateConvButton">
-<summary>
-DateConvButton control.
-</summary>
-<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member>
-<member name="F:DateConversion.DateConversionForm1._DateDescButton">
-<summary>
-DateDescButton control.
 </summary>
 <remarks>
 Auto-generated field.

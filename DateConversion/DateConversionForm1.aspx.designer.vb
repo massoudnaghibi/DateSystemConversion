@@ -41,6 +41,15 @@ Partial Public Class DateConversionForm1
     Protected WithEvents RadioButtonList1 As Global.System.Web.UI.WebControls.RadioButtonList
 
     '''<summary>
+    '''DateConvButton control.
+    '''</summary>
+    '''<remarks>
+    '''Auto-generated field.
+    '''To modify move field declaration from designer file to code-behind file.
+    '''</remarks>
+    Protected WithEvents DateConvButton As Global.System.Web.UI.WebControls.Button
+
+    '''<summary>
     '''RadioButtonList2 control.
     '''</summary>
     '''<remarks>
@@ -48,6 +57,15 @@ Partial Public Class DateConversionForm1
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
     Protected WithEvents RadioButtonList2 As Global.System.Web.UI.WebControls.RadioButtonList
+
+    '''<summary>
+    '''DateDescButton control.
+    '''</summary>
+    '''<remarks>
+    '''Auto-generated field.
+    '''To modify move field declaration from designer file to code-behind file.
+    '''</remarks>
+    Protected WithEvents DateDescButton As Global.System.Web.UI.WebControls.Button
 
     '''<summary>
     '''OutDateLabel control.
@@ -66,22 +84,4 @@ Partial Public Class DateConversionForm1
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
     Protected WithEvents TodayDateLabel As Global.System.Web.UI.WebControls.Label
-
-    '''<summary>
-    '''DateConvButton control.
-    '''</summary>
-    '''<remarks>
-    '''Auto-generated field.
-    '''To modify move field declaration from designer file to code-behind file.
-    '''</remarks>
-    Protected WithEvents DateConvButton As Global.System.Web.UI.WebControls.Button
-
-    '''<summary>
-    '''DateDescButton control.
-    '''</summary>
-    '''<remarks>
-    '''Auto-generated field.
-    '''To modify move field declaration from designer file to code-behind file.
-    '''</remarks>
-    Protected WithEvents DateDescButton As Global.System.Web.UI.WebControls.Button
 End Class
