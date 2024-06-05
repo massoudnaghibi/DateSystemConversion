@@ -1,14 +1,11 @@
-بسمه تعالی:
----
-نکته مهم: این فقط یک برنامه دمو جهت نمایش تبدیل تاریخ ها در سیستم تقویم های مختلف است (شمسی، قمری و میلادی) . خروجی آن به زبان فارسی نمایش داده می شود
-برنامه (DateConversionSolution) تبدیل تاریخ در تقویم های مختلف را انجام می دهد(شمسی، قمری و میلادی):
-1-	در TextBox ابتدای صفحه یک تاریخ در فرمت YYYY/MM/DD دریافت می کند و بر اساس انتخاب نوع تبدیل تقویم مبدا و مقصد، و سپس کلیک بر روی دکمه "Covert Date" تاریخ موجود را به تاریخ مورد نظر تبدیل می کند و در پائین صفحه نمایش می دهد.
-2-	هم چنین شرح تاریخ وارد شده در TextBox را بر اساس انتخاب نوع تقویم، پس از کلیک بر روی دکمه "Show Date Desc" نمایش می دهد.
-3- بخشی مهمی از این برنامه چند سال قبل از یک پیج در اینترنت برداشت شده ولی متاسفانه آدرس آن را فراموش کرده ام تا ذکر کنم.
-4- یک نسخه c# از این برنامه نیز که در کنسول اجرامی شود نیز به امید خدا به زودی ارائه خواهد شد.
-5- این برنامه هیچ ضمانتی در مورد صحت عملکرد و یا عدم امکان ایجاد خرابی در سیستم ندارد و در صورت بروز هرگونه مشکلی صاحب این اکانت هیچ مسئولیتی را بر عهده نمی گیرد.
-6- هرکونه استفاده از همه یا بخشی از این برنامه اعم از تجاری یا غیر تجاری با یا بدون ذکر منبع آزاد می باشد.
+# Date System Conversion (Solar(Jalali), Lunar, Gregorian)       
 
-        Important Notice!
-        This is just a Demo Program for showing Converting Dates in different Calendar Systems(Persian(Jalali) - Islamic(Lunar-Lunar Hijri) - Christian(AD)).
-        The ouput is shown in Persian(Farsi) Language.
+Important note: This is just a demo program to show the conversion of dates in different calendar systems (Solar(Jalali), Lunar and Gregorian).<br/>
+Its output is displayed in Farsi language.<br/>
+The program (DateConversionSolution VS Solution) is mainly coded in VB.NET and performs date conversion in different calendars (Solar(Jalali), Lunar and Gregorian):<br/>
+1- In the TextBox at the beginning of the page, it receives a date in the YYYY/MM/DD format, and based on the selection of the source and destination calendar conversion type, and then clicking on the "Convert Date" button, it converts the existing date to the desired date and It displays at the bottom of the screen.<br/>
+2- It also displays the description of the date entered in the TextBox based on the selection of the calendar type, after clicking the "Show Date Desc" button.<br/>
+3- <b>An important part of this program was taken from a page on the Internet a few years ago, but unfortunately I have forgotten its Link and can not address it.</b><br/>
+4- A c# version of this program that runs on the console will also be provided soon, God willing.<br/>
+5- This program does not have any guarantee about the correctness of the operation or the possibility of failure in the system, and in case of any problem, the owner of this account does not take any responsibility.<br/>
+6- Any use of all or part of this program, whether commercial or non-commercial, with or without mentioning the source is allowed and free of any charge.<br/>
