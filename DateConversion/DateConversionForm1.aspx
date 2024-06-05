@@ -7,6 +7,15 @@
     <title></title>
 </head>
 <body>
+    <div>
+        <h1>__________________________________________________________________________________________________________________</h1>
+        <h1>Important Notice!</h1>
+        <b>This is just a Demo Program for showing Converting Dates in different Calendar Systems(Persian(Jalali) - Islamic(Lunar-Lunar Hijri) - Christian(AD)).
+            <br />
+            The ouput is shown in Persian(Farsi) Language.
+        </b>
+        <h1>__________________________________________________________________________________________________________________</h1>
+    </div>
     <form id="form1" runat="server">
         <div>
         </div>
@@ -40,14 +49,11 @@
         &nbsp;
         <asp:Label ID="TodayDateLabel" runat="server" Text="تاریخ امروز"></asp:Label>
         </b>
-        <br /><br /><br />
+        <br /><br />
         
         &nbsp;&nbsp;&nbsp;
         
     </form>
-    <div>
-        <br /><br />
-        <b>This is just a Demo Program for showing Converting Dates in different Calendar Systems(Persian(Jalali) - Islamic(Lunar-Lunar Hijri) - Christian(AD)).</b>
-    </div>
+
 </body>
 </html>

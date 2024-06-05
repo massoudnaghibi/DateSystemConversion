@@ -37,3 +37,4 @@ D:\WORK98\GitVersions\DateConversionSolution\DateConversion\obj\Release\DateConv
 D:\WORK98\GitVersions\DateConversionSolution\DateConversion\obj\Release\DateConversion.dll
 D:\WORK98\GitVersions\DateConversionSolution\DateConversion\obj\Release\DateConversion.xml
 D:\WORK98\GitVersions\DateConversionSolution\DateConversion\obj\Release\DateConversion.pdb
+D:\WORK98\GitVersions\DateConversionSolution\DateConversion\obj\Release\DateConversion.vbproj.AssemblyReference.cache
