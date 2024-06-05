@@ -12,7 +12,7 @@
         </div>
         <div>
             <asp:TextBox ID="InDateTextBox" runat="server"></asp:TextBox> &nbsp&nbsp&nbsp
-            <b><asp:Label runat="server">Enter Date as: YYYY/MM/DD (Pay attention that it is reqired and necessary to enter valid input! Else you receive error!)</asp:Label></b>
+            <b><asp:Label runat="server">Enter Date as: YYYY/MM/DD (Pay attention that it is required and necessary to enter valid input! Else you receive error!)</asp:Label></b>
         </div>
         &nbsp;<asp:RadioButtonList ID="RadioButtonList1" runat="server">
             <asp:ListItem Value="PI">Pers_Islamic</asp:ListItem>

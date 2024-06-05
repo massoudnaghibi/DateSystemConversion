@@ -31,7 +31,6 @@ D:\WORK98\GitVersions\DateConversionSolution\DateConversion\bin\DateConversion.d
 D:\WORK98\GitVersions\DateConversionSolution\DateConversion\bin\DateConversion.dll
 D:\WORK98\GitVersions\DateConversionSolution\DateConversion\bin\DateConversion.pdb
 D:\WORK98\GitVersions\DateConversionSolution\DateConversion\bin\DateConversion.xml
-D:\WORK98\GitVersions\DateConversionSolution\DateConversion\obj\Release\DateConversion.vbproj.AssemblyReference.cache
 D:\WORK98\GitVersions\DateConversionSolution\DateConversion\obj\Release\DateConversion.Resources.resources
 D:\WORK98\GitVersions\DateConversionSolution\DateConversion\obj\Release\DateConversion.vbproj.GenerateResource.cache
 D:\WORK98\GitVersions\DateConversionSolution\DateConversion\obj\Release\DateConversion.vbproj.CoreCompileInputs.cache
