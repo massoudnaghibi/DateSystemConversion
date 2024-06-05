@@ -1,0 +1,8 @@
+D:\WORK\ShotList&Photo\DateConversionASPnet\DateConversionSolution\DateConversion\bin\DateConversion.dll
+D:\WORK\ShotList&Photo\DateConversionASPnet\DateConversionSolution\DateConversion\bin\DateConversion.pdb
+D:\WORK\ShotList&Photo\DateConversionASPnet\DateConversionSolution\DateConversion\bin\DateConversion.xml
+D:\WORK\ShotList&Photo\DateConversionASPnet\DateConversionSolution\DateConversion\obj\Debug\DateConversion.Resources.resources
+D:\WORK\ShotList&Photo\DateConversionASPnet\DateConversionSolution\DateConversion\obj\Debug\DateConversion.vbproj.GenerateResource.Cache
+D:\WORK\ShotList&Photo\DateConversionASPnet\DateConversionSolution\DateConversion\obj\Debug\DateConversion.dll
+D:\WORK\ShotList&Photo\DateConversionASPnet\DateConversionSolution\DateConversion\obj\Debug\DateConversion.xml
+D:\WORK\ShotList&Photo\DateConversionASPnet\DateConversionSolution\DateConversion\obj\Debug\DateConversion.pdb
