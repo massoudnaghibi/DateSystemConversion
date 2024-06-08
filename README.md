@@ -8,5 +8,24 @@ The program (DateConversionSolution VS Solution) is mainly coded in VB.NET and p
 This description is shown in Farsi language and includes the name of the moth and name of the day of the week.<br/><br/>
 3- <b>An important part of this program was taken from a page on the Internet a few years ago, but unfortunately I have forgotten its Link and can not address it.</b><br/><br/>
 4- A C# version of this program that runs on the console will also be provided soon, God willing.<br/><br/>
-5- This program does not have any guarantee about the correctness of the operation or the possibility of failure in the system, and in case of any problem, the owner of this account does not take any responsibility.<br/><br/>
-6- Any use of all or part of this program, whether commercial or non-commercial, with or without mentioning the source is allowed and free of any charge.<br/>
+
+# MIT License
+## Copyright (c) [2022] [Massoud Naghibi]
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
