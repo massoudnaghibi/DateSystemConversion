@@ -28,12 +28,19 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.<br/>
+# Start page
 <img align="center" src="DateConversion/start.jpg" height="600" /><br/>
+# Conversion of Farsi Date to Julian
 <img align="center" src="DateConversion/Persia_Julian.jpg" height="600" /><br/>
+# Conversion of Farsi Date to Lunar
 <img align="center" src="DateConversion/Persia_Lunar.jpg" height="600" /><br/>
+# Description of Julian Date 
 <img align="center" src="DateConversion/Julian_Descp.jpg" height="600" /><br/>
+# Description of Julian Date (Albert Einstein birthday)
 <img align="center" src="DateConversion/Julian_Descp_AlbertEinstein_BD.jpg" height="600" /><br/>
+# Conversion of Julian Date (Albert Einstein birthday) to Persian
 <img align="center" src="DateConversion/Julian_Persian_Descp_AlbertEinstein_BD.jpg" height="600" /><br/>
+# Description of Persian Date (Albert Einstein birthday)
 <img align="center" src="DateConversion/Persian_Descp_AlbertEinstein_BD.jpg" height="600" /><br/>
 
 
