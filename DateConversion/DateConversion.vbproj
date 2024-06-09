@@ -20,6 +20,8 @@
     <IISExpressAnonymousAuthentication />
     <IISExpressWindowsAuthentication />
     <IISExpressUseClassicPipelineMode />
+    <Use64BitIISExpress />
+    <UseGlobalApplicationHostFile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -83,6 +85,13 @@
   <ItemGroup>
     <Content Include="DateConversionForm1.aspx" />
     <Content Include="Default.aspx" />
+    <Content Include="Julian_Descp.jpg" />
+    <Content Include="Julian_Descp_AlbertEinstein_BD.jpg" />
+    <Content Include="Julian_Persian_Descp_AlbertEinstein_BD.jpg" />
+    <Content Include="Persian_Descp_AlbertEinstein_BD.jpg" />
+    <Content Include="Persia_Julian.jpg" />
+    <Content Include="Persia_Lunar.jpg" />
+    <Content Include="start.jpg" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
