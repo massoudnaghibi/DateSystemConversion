@@ -30,7 +30,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.<br/>
 # Start page
 <img align="center" src="DateConversion/start.jpg" height="600" /><br/>
-# Conversion of Farsi Date to Julian
+# Conversion of Julian Date to persian
 <img align="center" src="DateConversion/Persia_Julian.jpg" height="600" /><br/>
 # Conversion of Farsi Date to Lunar
 <img align="center" src="DateConversion/Persia_Lunar.jpg" height="600" /><br/>
