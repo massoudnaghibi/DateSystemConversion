@@ -1,8 +1,10 @@
 # Date System Conversion (Solar(Jalali), Lunar, Gregorian)       
 
+Convert Date from a Calendar System to another one.
+
 <b>Important notice</b>: This is just a demo program to show the conversion of dates in different calendar systems (Solar(Jalali), Lunar and Gregorian).<br/>
 Its output is displayed in Farsi language.<br/><br/>
-The program (DateConversionSolution Visual Studio Solution) is mainly coded in VB.NET and performs date conversion in different calendar systems (Solar(Jalali), Lunar and Gregorian):<br/><br/>
+The program (DateConversionSolution, a Visual Studio Solution) is mainly coded in VB.NET and performs date conversion in different calendar systems (Solar(Jalali), Lunar and Gregorian):<br/><br/>
 1- In the TextBox at the beginning of the page, it receives a date in the YYYY/MM/DD format, and based on the selection of the source and destination calendar conversion type, and then clicking on the "Convert Date" button, it converts the existing date to the desired date and It displays at the bottom of the screen.<br/><br/>
 2- It also displays the description of the date entered in the TextBox based on the selected the calendar type and clicking the "Show Date Desc" button.<br/>
 This description is shown in Farsi language and includes the name of the moth and name of the day of the week.<br/><br/>
